@@ -8,6 +8,7 @@ class Node:
         self.bias = 1
         self.sum = 0
 
-    def sigmoid(self):
+    def _sigmoid(self):
         return 1.0 / (1.0 + math.exp(-(self.sum + self.bias)))
     
+    def output()

@@ -8,3 +8,4 @@ class Genome:
         self.inputSize = inputSize
         self.outputSize = outputSize
         
+    def 
