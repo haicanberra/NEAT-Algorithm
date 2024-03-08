@@ -9,7 +9,6 @@ class Connection:
 
         self.weight = 1
         self.enabled = True
-    
         
     def mutateWeight(self):
         pass
